@@ -6,7 +6,7 @@ Time spent: **10** hours spent in total
 
 ## User Stories
 
-Part 1: The following **required** functionality is completed:
+<h3>Part 1:</h3> The following **required** functionality is completed:
 
 - [X] User can **sign in to Twitter** using OAuth login
 - [X]	User can **view tweets from their home timeline**
@@ -14,7 +14,7 @@ Part 1: The following **required** functionality is completed:
   - [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
 - [X] User can refresh tweets timeline by pulling down to refresh
 
-Part 2: The following **required** functionality is completed:
+<h3>Part 2:</h3> The following **required** functionality is completed:
 
 - [X] User can **compose and post a new tweet**
   - [X] User can click a “Compose” icon in the Action Bar on the top right
@@ -24,7 +24,7 @@ Part 2: The following **required** functionality is completed:
   - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 
-Part 1: The following **optional** features are implemented:
+<h3>Part 1:</h3> The following **optional** features are implemented:
 
 - [X] User can view more tweets as they scroll with infinite pagination
 - [ ] Improve the user interface and theme the app to feel "twitter branded"
@@ -35,7 +35,7 @@ Part 1: The following **optional** features are implemented:
 - [ ] User can open the twitter app offline and see last loaded tweets
 - [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
-Part 2: The following **optional** features are implemented:
+<h3>Part 2:</h3> The following **optional** features are implemented:
 
 - [ ] User is using **"Twitter branded" colors and styles**
 - [ ] User can click links in tweets launch the web browser 
@@ -55,10 +55,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<h4>Part 1:</h4>
+<h3>Part 1:</h3>
 <img src='gifs/Part 1.gif' width='' alt='Video Walkthrough' />
 
-<h4>Part 2:</h4>
+<h3>Part 2:</h3>
 <img src='gifs/Part 2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
