@@ -55,7 +55,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Part 1:
+<h2>Part 1:</h2>:
 <img src='gifs/Part 1.gif' width='' alt='Video Walkthrough' />
 
 Part 2:
