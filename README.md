@@ -30,9 +30,6 @@ Here's a walkthrough of implemented user stories:
 <h3>Part 1:</h3>
 <img src='gifs/Part 1.gif' width='' alt='Video Walkthrough' />
 
-<h3>Part 2:</h3>
-<img src='gifs/Part 2.gif' width='' alt='Video Walkthrough' />
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
