@@ -13,24 +13,17 @@
   - [X] User is displayed the relative timestamp for each tweet "8m", "7h"
 - [X] User can refresh tweets timeline by pulling down to refresh
 
+
 - [X] User can **compose and post a new tweet**
   - [X] User can click a “Compose” icon in the Action Bar on the top right
   - [X] User can then enter a new tweet and post this to twitter
   - [X] User is taken back to home timeline with **new tweet visible** in timeline
   - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
   - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
+
 
 - [X] User can view more tweets as they scroll with **infinite pagination**
 
-
-<h3>Part 2:</h3> The following **required** functionality is completed:
-
-- [X] User can **compose and post a new tweet**
-  - [X] User can click a “Compose” icon in the Action Bar on the top right
-  - [X] User can then enter a new tweet and post this to twitter
-  - [X] User is taken back to home timeline with **new tweet visible** in timeline
-  - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 
 
