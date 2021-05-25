@@ -9,7 +9,7 @@
 - [X]	User can **view tweets from their home timeline**
   - [X] User is displayed the username, name, and body for each tweet
   - [X] User is displayed the relative timestamp for each tweet "8m", "7h"
-- [X] User can refresh tweets timeline by pulling down to refresh
+- [X] User can refresh tweets timeline by **pulling down to refresh**
 
 - [X] User can **compose and post a new tweet**
   - [X] User can click a “Compose” icon in the Action Bar on the top right
